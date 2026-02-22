@@ -9,7 +9,7 @@ namespace ITM.ProyectoDespliegue.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Nuevo mensaje desde la corrección.");
+             Ok("Nuevo mensaje desde la corrección.")
         }
     }
 }
