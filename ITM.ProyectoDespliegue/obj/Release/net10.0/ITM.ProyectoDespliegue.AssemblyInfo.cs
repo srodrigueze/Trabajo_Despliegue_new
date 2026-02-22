@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITM.ProyectoDespliegue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c73e4309f8fb62f06c3f2cbbc301d8793becd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31750dad64bbbf81cc4c9b96e0128b3c2823d4cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITM.ProyectoDespliegue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITM.ProyectoDespliegue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
