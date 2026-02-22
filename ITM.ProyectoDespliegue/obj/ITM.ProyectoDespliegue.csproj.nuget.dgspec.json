@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User9\\source\\repos\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {}
+    "C:\\Users\\David\\Desktop\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User9\\source\\repos\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {
+    "C:\\Users\\David\\Desktop\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User9\\source\\repos\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
         "projectName": "ITM.ProyectoDespliegue",
-        "projectPath": "C:\\Users\\User9\\source\\repos\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
-        "packagesPath": "C:\\Users\\User9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User9\\source\\repos\\ITM.ProyectoDespliegue\\obj\\",
+        "projectPath": "C:\\Users\\David\\Desktop\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
