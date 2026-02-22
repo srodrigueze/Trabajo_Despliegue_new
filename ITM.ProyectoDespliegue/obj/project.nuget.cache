@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ta8NG52x7dk=",
+  "dgSpecHash": "QXzkuKEZZtY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
+  "projectFilePath": "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Juana\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "C:\\Users\\Juana\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\User9\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\User9\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

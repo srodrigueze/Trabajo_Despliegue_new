@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {}
+    "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {
+    "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
+        "projectUniqueName": "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
         "projectName": "ITM.ProyectoDespliegue",
-        "projectPath": "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
-        "packagesPath": "C:\\Users\\Juana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juana\\source\\repos\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\obj\\",
+        "projectPath": "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\ITM.ProyectoDespliegue.csproj",
+        "packagesPath": "C:\\Users\\User9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User9\\OneDrive\\Escritorio\\Trabajo_Despliegue_new\\ITM.ProyectoDespliegue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
